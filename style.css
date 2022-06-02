@@ -32,3 +32,18 @@ a {
     color: #f9faf8;
     text-decoration: none;
 }
+
+.welcome {
+    background-color: #1f2937;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+}
+
+.hero-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
