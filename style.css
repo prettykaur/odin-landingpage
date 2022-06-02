@@ -47,3 +47,13 @@ a {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 16px;
+    border: none;
+}
