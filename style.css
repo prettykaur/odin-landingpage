@@ -8,7 +8,7 @@ body {
 }
 
 .header {
-    background-color: #1f2937;
+    background-color: #fd7a01;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -17,7 +17,7 @@ body {
 
 .header-logo {
     font-size: 24px;
-    color: #f9faf8;
+    color: #fef8e4;
     font-weight: 700;
     display: flex;
     justify-content: flex-start;
@@ -34,12 +34,12 @@ ul {
 
 a {
     font-size: 18px;
-    color: #f9faf8;
+    color: #fef8e4;
     text-decoration: none;
 }
 
 .welcome {
-    background-color: #1f2937;
+    background-color: #fd7a01;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -184,9 +184,9 @@ img {
 }
 
 .footer {
-    background-color: #1f2937;
+    background-color: #fd7a01;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #fef8e4;
     text-align: center;
     display: flex;
     justify-content: center;
