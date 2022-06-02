@@ -80,7 +80,7 @@ button {
     margin-bottom: 0px;
 }
 
-img {
+.right-welcome {
     width: 450px;
     height: 275px;
 }
@@ -88,3 +88,36 @@ img {
 .right-welcome {
     display: flex;
 }
+
+.cheese-types {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.text {
+    text-align: center;
+}
+
+.info {
+    max-width: 200px;
+}
+
+
+
